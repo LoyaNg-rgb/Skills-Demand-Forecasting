@@ -1,4 +1,4 @@
-# Sales Forecasting Project
+# Skills-Demand-Forecasting
 
 A comprehensive machine learning project for forecasting retail sales using time series analysis and ensemble methods.
 
